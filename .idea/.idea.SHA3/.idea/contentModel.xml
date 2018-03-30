@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\DreTaX\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_SHA3.-1664355179.00" t="ExcludeRecursive" />
+    <e p="E:\Users\DreTaX\Documents\Visual Studio 2013\SHA3" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SHA3" t="IncludeRecursive">
+        <e p="Arrays.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="KeccakDigest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SHA3.cs" t="Include" />
+        <e p="SHA3.csproj" t="IncludeRecursive" />
+        <e p="SHA3Digest.cs" t="Include" />
+      </e>
+      <e p="SHA3.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
